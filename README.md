@@ -2,7 +2,7 @@
 
 Data analysis for single-molecule reactions, including the current levels and reaction sequences
 
-These codes were wrote by Fangyang Mo and Jinglong Lin, organised by Lei Zhang. Please cite Lei Zhang, Chen Yang, Chenxi Lu, Xingxing Li, Yilin Guo, Jianning Zhang, Jinglong Lin, Zhizhou Li, Chuancheng Jia, Jinlong Yang, K. N. Houk, Fanyang Mo & Xuefeng Guo, which may appear in Nat. Comm. 2022 if you use this software!
+These codes were wrote by Fanyang Mo and Jinglong Lin, organised by Lei Zhang. Please cite Lei Zhang, Chen Yang, Chenxi Lu, Xingxing Li, Yilin Guo, Jianning Zhang, Jinglong Lin, Zhizhou Li, Chuancheng Jia, Jinlong Yang, K. N. Houk, Fanyang Mo & Xuefeng Guo, which may appear in Nat. Comm. 2022 if you use this software!
 
 System requirements:
 Python3 (3.8.5 was tested)
